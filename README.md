@@ -7,4 +7,4 @@ To begin, the dataset will be preprocessed to extract useful features and remove
 The project will also explore different techniques to improve the accuracy of the machine learning model. For instance, the dataset may be augmented with additional data, or the models may be fine-tuned with hyperparameter tuning to improve their performance.
 
 Once the model is developed, it can be used to scan new Android applications and identify whether they are benign or malicious. This can help in detecting and preventing Android malware infections on user devices, thereby improving the overall security of Android devices. The results of this project can be applied in real-world scenarios such as antivirus software, security solutions, and malware detection systems.
-https://www.kaggle.com/datasets/subhajournal/android-malware-detection?select=Android_Malware.csv
+
